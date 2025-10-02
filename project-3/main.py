@@ -122,6 +122,7 @@ def currency_exchange():
         
     
 
+
     # საკომისიოს გამოთვლა ანუ ბანკის მომსახურების საფასური ამ შემთხვევაში ეს არის მოწოდებული თანხის 2%
     commission = result * 0.02
     final_amount = result - commission
